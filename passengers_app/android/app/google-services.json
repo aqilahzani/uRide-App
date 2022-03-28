@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "397839277358",
+    "firebase_url": "https://urideapp-cbd44-default-rtdb.firebaseio.com",
+    "project_id": "urideapp-cbd44",
+    "storage_bucket": "urideapp-cbd44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397839277358:android:61a8e682a83a89948feebf",
+        "android_client_info": {
+          "package_name": "com.aqilahzani.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397839277358-dthdijegduvmokgqhev8ij5a1tm3vk1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeox9GKDoDcWDdPbi7OOwJDSedCvye1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397839277358-dthdijegduvmokgqhev8ij5a1tm3vk1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397839277358:android:3b73e06c442f4a948feebf",
+        "android_client_info": {
+          "package_name": "com.aqilahzani.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397839277358-dthdijegduvmokgqhev8ij5a1tm3vk1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeox9GKDoDcWDdPbi7OOwJDSedCvye1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397839277358-dthdijegduvmokgqhev8ij5a1tm3vk1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
